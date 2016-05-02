@@ -1,0 +1,16 @@
+{
+  "name": "chrome-combotester",
+  "version": "1.0.0",
+  "description": "combo失败链接检查工具",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chrome-extension",
+    "combotester",
+    "chrome",
+    "developer"
+  ],
+  "author": "sanyueyu",
+  "license": "ISC"
+}
